@@ -3,7 +3,7 @@ import './main.css';
 
 // Configuration
 const CONFIG = {
-    API_BASE_URL: 'http://localhost:5000',
+    API_BASE_URL: 'https://estudionodebackend.onrender.com',
     MAX_FILE_SIZE: 5 * 1024 * 1024,
     ALLOWED_TYPES: ['image/jpeg', 'image/png', 'image/webp', 'image/jpg']
 };
